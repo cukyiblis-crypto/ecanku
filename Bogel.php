@@ -2,7 +2,7 @@
 session_start();
 
 // Hash password bcrypt yang diberikan
-$hash_password = '$2y$10$MPH0NveMuvWVE1u7S/In1.om.zP7DSV0gfahtkHhvGhhn7wExXMNO';
+$hash_password = '@Cuanbanget';
 
 // Logout handling
 if (isset($_GET['logout'])) {
